@@ -15,7 +15,7 @@
 ### Hi there 👋
 
 - I'm a computational scientist originally from France 🇫🇷, now living in Norway 🇳🇴
-- I am fan of Python :snake: and very interested in the plumbing of software & data, especially the [reliability](https://sre.google/books/)/[quality](https://docs.greatexpectations.io/docs/) parts 🔧🔥✨
+- I am fan of Python :snake: and very interested in the plumbing of data, software & infrastructure, especially the [reliability](https://sre.google/books/)/[quality](https://docs.greatexpectations.io/docs/) parts 🔧🔥✨
 
 
 You can find me on:
@@ -24,4 +24,4 @@ You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/patrickmerlot/)
 * [Medium](https://medium.com/@patrick.merlot)
 * [Dev.to](https://dev.to/patechoc)
-* Please... quit Twitter & Facebook!
+* I did quit Twitter & Facebook a long time ago 😜
